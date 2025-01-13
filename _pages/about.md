@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yifan's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Howdy, my name is Yifan Wu (吴一帆). I am currently a PhD candidate of Operat
 
 ---
 
-# Update
+## Update
 
 - 2025/01/12: Hello World.
 
