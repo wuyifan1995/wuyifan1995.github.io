@@ -13,6 +13,7 @@ Howdy, my name is Yifan Wu (吴一帆). I am currently a PhD candidate of Operat
 
 ## Update
 
+- 2025/01/14: Our paper "Revisiting Continuous p-Hub Location Problems with the L1 Metric" has been submitted to **Transportation Science**. The arXiv version will coming soon. Good luck to the first "baby".
 - 2025/01/12: Hello World.
 
 
