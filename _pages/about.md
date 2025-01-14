@@ -16,28 +16,5 @@ Howdy, my name is Yifan Wu (吴一帆). I am currently a PhD candidate of Operat
 - 2025/01/12: Hello World.
 
 
-# Research 
-## Project
-Todo
-
-## Conference
-- Presentation in **2024 INFORMS Annual Meeting**: “Revisiting Continuous p-Hub Location Problems with the L1 Metric”.
-
----
-
-# Academic Service
-
-## Peer Reviewing
-### Journal
-- **IISE transactions** (1)
-- **Operations Research Forum** (1)
-- **Socio-economic planning sciences** (2)
-- **Transportation Research Part E** (3)
-
-## Session Organization
-
-### INFORMS Annual Meeting, 2024, Seattle
-- Service as chair in **Session: Adaptive Strategies in Experimentation and Logistics**. 
-
 
 
