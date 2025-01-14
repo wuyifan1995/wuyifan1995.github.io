@@ -10,6 +10,9 @@ main:
 
    - title: "Research"
      url: /Research/
+     
+   - title: "Service"
+     url: /Service/
 
   # - title: "Talks"
   #   url: /talks/    
