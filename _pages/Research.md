@@ -9,7 +9,7 @@ author_profile: true
 
 Apply optimization models to solve practical problems.
 
-### Revisiting Continuous p-Hub Location Problems with the L1 Metric
+### Revisiting Continuous p-Hub Location Problems with the L1 Metric [arXiv](https://arxiv.org/abs/2501.08439)
 - Analytical results presented in **IISE 2024** (Thanks, Joe).
 - Presented in **2024 INFORMS Annual Meeting**.
 - Submitted to the Transportation Science.
