@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## OR Project during Phd Study
+## OR Projects during Phd Study
 
 Apply optimization models to solve practical problems.
 
@@ -21,17 +21,17 @@ Apply optimization models to solve practical problems.
 ### Search and Rescue
 - Ongoing Research
 
-## Other Project before Phd Study 
+## Other Projects before Phd Study 
 
 A little bit interdisciplinary. I actually received my PhD offer from the Human Factors track under Industrial Engineering Department. Then, I changed my mind.
 
-### Brain-computer Interface
+### Brain-Computer Interface
 - EEG signal processing.
 - BCI (SSVEP) pattern design.
   
 ### Robotic System Design
 - Autonomous driving system (SLAM part).
-- BCI-based robotic system design: BCI-based wheelchair,BCI-based typing sysytem, and BCI-based UAV (invited to exhibit at the World Robot Conference, WRC, in Beijing).
+- BCI-based robotic system design: BCI-based wheelchair, BCI-based typing sysytem, and BCI-based UAV (invited to exhibit at the World Robot Conference, WRC, in Beijing).
 
 ### Mechanical Design
 - Design and simulation of bionic elbow joint based on rigid-compliant structure.
