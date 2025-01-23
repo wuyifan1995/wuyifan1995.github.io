@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifan's Personal Website"
+title: "Yifan Wu TAMU"
 author_profile: true
 redirect_from: 
   - /about/
