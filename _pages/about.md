@@ -13,6 +13,7 @@ Howdy, my name is Yifan Wu (吴一帆). I am currently a PhD candidate of **Oper
 
 ## Update
 
+- 2025/05/30: I will host one OR session "Session: Optimization Models for Logistics" in IISE annual 2025.
 - 2025/01/14: Our paper "Revisiting Continuous p-Hub Location Problems with the L1 Metric" has been submitted to arXiv. [arXiv](https://arxiv.org/abs/2501.08439).
 - 2025/01/12: Hello World.
 
